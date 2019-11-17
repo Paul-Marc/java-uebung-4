@@ -1,0 +1,27 @@
+Blatt 4 Aufgabe 1: Paul Conrad 358940, Marc Palfner 359899 
+<<Hauptprogramm Aufgabe1 mit Scanner in Datei Aufgabe1.java>>
+
+//Eingabe
+//Einlesen Zahl Nr.1
+<<Schreibe "Gib Zahl Nr.1 ein:" auf die Konsole>>
+<<Deklariere Variable a vom Typ int mit dem Wert von Scanner>>
+
+//Einlesen Zahl Nr.2
+<<Schreibe "Gib Zahl Nr.2 ein:" auf die Konsole>>
+<<Deklariere Variable b vom Typ int mit dem Wert von Scanner>>
+
+//Einlesen Zahl Nr.3
+<<Schreibe "Gib Zahl Nr.3 ein:" auf die Konsole>>
+<<Deklariere Variable c vom Typ int mit dem Wert von Scanner>>
+
+
+//Verarbeitung
+<<Nutze If-Anweisung zur Ermittlung der kleinsten Zahl>>
+<<a ist die kleinste wenn: a kleiner als b & kleiner als c>>
+<<b ist die kleinste wenn: b kleiner als a & kleiner als c>>
+<<c ist die kleinste wenn: c kleiner als a & kleiner als b>>
+<<Speichere kleinste Zahl in Variable kleinsteZahl vom Typ int>>
+
+
+//Ausgabe
+<<Schreibe "Kleinste Zahl: " und Wert von kleinsteZahl in die Konsole>>

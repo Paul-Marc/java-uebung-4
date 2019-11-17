@@ -1,0 +1,11 @@
+Blatt 4 Aufgabe 1: Paul Conrad 358940, Marc Palfner 359899 
+Ziel-Beschreibung:
+- 3 beliebige ganze Zahlen werden eingelesen.
+- Die kleinste der 3 Zahlen wird bestimmt.
+- Die kleinste Zahl wird in die Konsole geschrieben.
+
+Beispiel:
+Gib 3 ganze Zahlen ein: 3, 7, 12
+<<3 wird als kleinste Zahl bestimmt>>
+Die kleinste Zahl ist: 3
+

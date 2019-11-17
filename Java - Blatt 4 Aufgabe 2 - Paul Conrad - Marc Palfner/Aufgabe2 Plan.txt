@@ -1,0 +1,28 @@
+//Blatt 4 Aufgabe 2: Paul Conrad 358940, Marc Palfner 359899 
+Ziel: 
+Geben Sie eine Ganzzahl ein.
+Prüfung ob die Zahl Glatt durch 17 teilbar ist.
+Wenn ja gebe Zahl geteilt durch 11 aus.
+Wenn nicht gebe Zahl modulo 5 aus. 
+
+
+Plan: 
+<<Haubtprogramm Aufgabe4 mit sacnner in Datei Aufgabe4.java
+	<<Deklariere Variable "zahl" Type Integer>> 
+	
+	//Ausgabe
+	<<Schreibe "Bitte nenne eine (ganze) Zahl!" auf die Konsole>>
+	
+	//Eingabe
+	<<Variable "zahl" wird auf eingegebenen Wert gesetzt>>
+	
+	<<Prüfung ob die Variable "zahl" glatt durch 17 Teilbar ist>>
+	
+	//Ausgabe
+	<<Fals Variable "zahl" glatt durch 17 teilbar ist, schreibe auf die Konsole
+	  "Die eingegebene Zahl " +zahl +" geteilt durch 11 ergiebt " +(double)(zahl / 11)>>
+	<<Fals Variable "zahl" nicht glatt durch 17 teilbar ist, schreibe auf die Konsole
+	  "Die eingegebene Zahl " +zahl +" modulo 5 ergiebt " +(zahl % 5) +".">>
+	  
+	  
+	
